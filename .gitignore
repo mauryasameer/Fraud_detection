@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+call_data.csv
+message_data.csv
+search_data.csv
+signup_data.csv
